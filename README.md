@@ -11,6 +11,6 @@ For this project I analyzed Hawaii's weather data to ensure the investor is maki
 
 ![june_temp](https://user-images.githubusercontent.com/83085800/141161072-a017b241-d66e-47ef-b80e-08f7c22b2527.png)
 
-#### December Temperature
+### December Temperature
 
 ![Dec_temp](https://user-images.githubusercontent.com/83085800/141161128-6cbaa667-615a-467e-b237-270bffedfc25.png)
